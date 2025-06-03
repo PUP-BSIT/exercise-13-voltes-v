@@ -1,4 +1,4 @@
-def moralesmenu():
+def morales_menu():
     choice = 0
     while choice != 7:
         print("\n=== MORALES'S MENU ===")
@@ -26,8 +26,8 @@ def moralesmenu():
                 print("-----------------------------------------------------")
             case 2:
                 print("\n ---- MY GOALS ----\n")
-                print("• Goal 1: Finish my studies")
-                print("• Goal 2: To pass Integral Programming")
+                print("• Goal 1: To pass Integral Programming")
+                print("• Goal 2: Finish my studies")
                 print("• Goal 3: Travel the world")
                 print("-----------------------------------------------------")
             case 3:

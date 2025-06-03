@@ -21,16 +21,16 @@ while choice !=6:
             print("Input Caculitan Module")
         case 2:
            import voltes.corpus
-           voltes.corpus.corpusmenu()
+           voltes.corpus.corpus_menu()
         case 3:
             import voltes.gulles
-            voltes.gulles.gullesmenu()
+            voltes.gulles.gulles_menu()
         case 4:
            import voltes.morales
-           voltes.morales.moralesmenu()
+           voltes.morales.morales_menu()
         case 5:
             import voltes.pineda
-            voltes.pineda.pinedamenu()
+            voltes.pineda.pineda_menu()
         case 6:
             print("Exiting Voltes V Modules")
             print("-----------------------------------------------------")

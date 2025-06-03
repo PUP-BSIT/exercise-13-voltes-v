@@ -1,4 +1,4 @@
-def pinedamenu():
+def pineda_menu():
     choice = 0
     while choice != 7:
         print("\n=== PINEDA'S MENU ===")

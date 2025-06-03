@@ -1,4 +1,4 @@
-def gullesmenu():
+def gulles_menu():
     choice = 0
     while choice != 7:
         print("\n=== GULLES' MENU ===")

@@ -1,4 +1,4 @@
-def corpusmenu():
+def corpus_menu():
     choice = 0
     while choice != 7:
         print("\n=== CORPUS' MENU ===")
