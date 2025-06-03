@@ -38,6 +38,7 @@ def morales_menu():
                 print("-----------------------------------------------------")
             case 5:
                 print("Comment From Gulles")
+                print("You will pass INTE 202 And will travel the world <33")
                 print("-----------------------------------------------------")
             case 6:
                 print("Comment From Pineda")

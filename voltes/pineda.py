@@ -40,6 +40,7 @@ def pineda_menu():
                 print("-----------------------------------------------------")
             case 5:
                 print("Comment From Gulles")
+                print("You will be stable and happy :)))")
                 print("-----------------------------------------------------")
             case 6:
                 print("Comment From Morales")
