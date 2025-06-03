@@ -26,7 +26,7 @@ def caculitan_menu():
                 print("-----------------------------------------------------")
             case 2:
                 print("\n ---- MY GOALS ----\n")
-                print("• Goal 1: To pass Integrative Programming and Technologies 1")
+                print("• Goal 1: To pass INTE 202")
                 print("• Goal 2: To graduate on year 2027")
                 print("• Goal 3: To live a Christ-like life.")
                 print("• Goal 4: To lift my family out of poverty")

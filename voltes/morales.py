@@ -26,7 +26,7 @@ def morales_menu():
                 print("-----------------------------------------------------")
             case 2:
                 print("\n ---- MY GOALS ----\n")
-                print("• Goal 1: To pass Integrative Programming and Technologies 1")
+                print("• Goal 1: To pass INTE 202")
                 print("• Goal 2: Finish my studies")
                 print("• Goal 3: Travel the world")
                 print("-----------------------------------------------------")

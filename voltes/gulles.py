@@ -26,7 +26,7 @@ def gulles_menu():
                 print("-----------------------------------------------------")
             case 2:
                 print("\n ---- MY GOALS ----\n")
-                print("• Goal 1: To pass Integrative Programming and Technologies 1")
+                print("• Goal 1: To pass INTE 202")
                 print("• Goal 2: To graduate on year 2027")
                 print("• Goal 3: To be with God")
                 print("-----------------------------------------------------")
