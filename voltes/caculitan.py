@@ -45,6 +45,7 @@ def caculitan_menu():
                 print("-----------------------------------------------------")
             case 6:
                 print("Comment From Pineda")
+                print("Good Job!, John Cris! <3")
                 print("-----------------------------------------------------")
             case 7:
                 print("Exiting Caculitan' Menu")

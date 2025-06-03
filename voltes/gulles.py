@@ -43,6 +43,7 @@ def gulles_menu():
                 print("-----------------------------------------------------")
             case 6:
                 print("Comment From Pineda")
+                print("You will pass INTE 202 And will graduate on time <33")
                 print("-----------------------------------------------------")
             case 7:
                 print("Exiting Gulles' Menu")
