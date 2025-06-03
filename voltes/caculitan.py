@@ -34,6 +34,7 @@ def caculitan_menu():
                 print("-----------------------------------------------------")
             case 3:
                 print("Comment From Corpus")
+                print("Good luck, John Cris! <3")
                 print("-----------------------------------------------------")
             case 4:
                 print("Comment From Gulles")

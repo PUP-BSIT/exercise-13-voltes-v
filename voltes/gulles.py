@@ -36,6 +36,7 @@ def gulles_menu():
                 print("-----------------------------------------------------")
             case 4:
                 print("Comment From Corpus")
+                print("Good luck, Althea! <3")
                 print("-----------------------------------------------------")
             case 5:
                 print("Comment From Morales")
