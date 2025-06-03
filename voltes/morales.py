@@ -36,6 +36,7 @@ def morales_menu():
                 print("-----------------------------------------------------")
             case 4:
                 print("Comment From Corpus")
+                print("Good luck, Daphne! <3")
                 print("-----------------------------------------------------")
             case 5:
                 print("Comment From Gulles")
