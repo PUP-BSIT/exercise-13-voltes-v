@@ -35,6 +35,7 @@ def corpus_menu():
                 print("-----------------------------------------------------")
             case 3:
                 print("Comment From Caculitan")
+                print("Makakapasa tayo sa INTE 202 <<3")
                 print("-----------------------------------------------------")
             case 4:
                 print("Comment From Gulles")
