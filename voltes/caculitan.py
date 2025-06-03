@@ -33,10 +33,10 @@ def caculitan_menu():
                 print("• Goal 5: To be a successful in life")
                 print("-----------------------------------------------------")
             case 3:
-                print("Comment From Caculitan")
+                print("Comment From Corpus")
                 print("-----------------------------------------------------")
             case 4:
-                print("Comment From Corpus")
+                print("Comment From Gulles")
                 print("-----------------------------------------------------")
             case 5:
                 print("Comment From Morales")
@@ -45,7 +45,7 @@ def caculitan_menu():
                 print("Comment From Pineda")
                 print("-----------------------------------------------------")
             case 7:
-                print("Exiting Corpus' Menu")
+                print("Exiting Caculitan' Menu")
                 print("-----------------------------------------------------")
                 break
             case _:

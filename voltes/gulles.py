@@ -43,7 +43,7 @@ def gulles_menu():
                 print("Comment From Pineda")
                 print("-----------------------------------------------------")
             case 7:
-                print("Exiting Corpus' Menu")
+                print("Exiting Gulles' Menu")
                 print("-----------------------------------------------------")
                 break
             case _:
