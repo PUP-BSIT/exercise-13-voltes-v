@@ -44,6 +44,7 @@ def pineda_menu():
                 print("-----------------------------------------------------")
             case 6:
                 print("Comment From Morales")
+                print("PASADO KA NA DYANNAAA")
                 print("-----------------------------------------------------")
             case 7:
                 print("Exiting Pineda Menu")
