@@ -26,7 +26,7 @@ def corpus_menu():
                 print("-----------------------------------------------------")
             case 2:
                 print("\n ---- MY GOALS ----\n")
-                print("• Goal 1: To pass Integral Programming")
+                print("• Goal 1: To pass Integrative Programming and Technologies 1")
                 print("• Goal 2: To graduate with latin honors")
                 print("• Goal 3: To be a successful Cybercrime Investigator")
                 print("• Goal 4: To travel the world with my family")
