@@ -47,6 +47,7 @@ def corpus_menu():
                 print("-----------------------------------------------------")
             case 6:
                 print("Comment From Pineda")
+                print(" You'll be in my heart, Precious! <3")
                 print("-----------------------------------------------------")
             case 7:
                 print("Exiting Corpus' Menu")
