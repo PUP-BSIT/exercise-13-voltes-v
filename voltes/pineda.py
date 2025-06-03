@@ -7,8 +7,8 @@ def pinedamenu():
         print("2. Hobbies")
         print("3. Comment From Caculitan")
         print("4. Comment From Corpus")
-        print("5. Comment From Morales")
-        print("6. Comment From Pineda")
+        print("5. Comment From Gulles")
+        print("6. Comment From Morales")
         print("7. Go Back to  Voltes V Modules")
         try:
             choice = int(input("Enter your choice (1-7): "))
@@ -38,10 +38,10 @@ def pinedamenu():
                 print("Comment From Corpus")
                 print("-----------------------------------------------------")
             case 5:
-                print("Comment From Morales")
+                print("Comment From Gulles")
                 print("-----------------------------------------------------")
             case 6:
-                print("Comment From Pineda")
+                print("Comment From Morales")
                 print("-----------------------------------------------------")
             case 7:
                 print("Exiting Pineda Menu")

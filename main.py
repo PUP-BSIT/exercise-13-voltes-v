@@ -19,17 +19,18 @@ while choice !=6:
     match choice:
         case 1:
             print("Input Caculitan Module")
-            print("Input Gulles Module")
         case 2:
-           print("Input Corpus Module")
+           import voltes.corpus
+           voltes.corpus.corpusmenu()
         case 3:
             import voltes.gulles
             voltes.gulles.gullesmenu()
         case 4:
-           print("Input Morales Module")
+           import voltes.morales
+           voltes.morales.moralesmenu()
         case 5:
-            import pineda
-            pineda.pinedamenu()
+            import voltes.pineda
+            voltes.pineda.pinedamenu()
         case 6:
             print("Exiting Voltes V Modules")
             print("-----------------------------------------------------")
