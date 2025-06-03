@@ -37,6 +37,7 @@ def caculitan_menu():
                 print("-----------------------------------------------------")
             case 4:
                 print("Comment From Gulles")
+                print("You will graduate on time, trust the process.")
                 print("-----------------------------------------------------")
             case 5:
                 print("Comment From Morales")
