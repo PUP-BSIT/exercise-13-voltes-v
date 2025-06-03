@@ -1,4 +1,4 @@
-def pinedamenu():
+def corpusmenu():
     choice = 0
     while choice != 7:
         print("\n=== CORPUS' MENU ===")
