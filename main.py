@@ -18,7 +18,6 @@ while choice !=6:
     
     match choice:
         case 1:
-            print("Input Caculitan Module")
             import voltes.caculitan
             voltes.caculitan.caculitan_menu()
         case 2:
